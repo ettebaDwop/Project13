@@ -2,11 +2,12 @@
 The Last 2 projects have armed us with some knowledge and skills on Ansible, we performed configurations using playbooks, roles and imports.
 In this project, we will continue configuring our UAT servers to learn and practice new Ansible concepts and modules.
 The concept of dynamic assignments by using include module will be introduced.
-There is a difference between static and dynamic assignments. In Project 12, the static assignments used the keyword, *"import"* to import Ansible module. The module that enables dynamic assignments is, *"include*.
+There is a difference between static and dynamic assignments. In Project 12, the static assignments used the keyword, ` *"import"* ` to import Ansible module. The module that enables dynamic assignments is, `*"include*`.
 
 Hence,
 
 import = Static
+
 include = Dynamic
 
 
